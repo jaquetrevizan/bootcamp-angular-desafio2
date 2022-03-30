@@ -1,4 +1,4 @@
-# BootcampAngularDesafio2
+# Bootcamp Angular Desafio 2 | Request Açaí
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.4.
 

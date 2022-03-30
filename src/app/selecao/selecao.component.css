@@ -1,0 +1,21 @@
+:host {
+  display: block;
+}
+
+.header {
+  background-color: #681e54;
+  padding: 8px 16px;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.header h3 {
+  margin: 0;
+}
+
+.options {
+  padding: 8px;
+}
+
+.option {
+  padding: 8px 16px;
+}
